@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-pages/static/css/main.846c4fe7.css",
+    "main.js": "/react-pages/static/js/main.73bdc68b.js",
+    "static/js/787.80194daf.chunk.js": "/react-pages/static/js/787.80194daf.chunk.js",
+    "static/media/CodeWorking.gif": "/react-pages/static/media/CodeWorking.415c402d859706b162f6.gif",
+    "static/media/NavodayaLogo.png": "/react-pages/static/media/NavodayaLogo.9cc9ccd0fb169cf0a4af.png",
+    "index.html": "/react-pages/index.html",
+    "main.846c4fe7.css.map": "/react-pages/static/css/main.846c4fe7.css.map",
+    "main.73bdc68b.js.map": "/react-pages/static/js/main.73bdc68b.js.map",
+    "787.80194daf.chunk.js.map": "/react-pages/static/js/787.80194daf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.846c4fe7.css",
+    "static/js/main.73bdc68b.js"
+  ]
+}
